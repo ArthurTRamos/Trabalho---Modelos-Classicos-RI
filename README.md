@@ -3,4 +3,4 @@
 **Grupo**:
 
 - Arthur Trottmann Ramos (14681052)
-- Maicon Chaves Marques (14593530
+- Maicon Chaves Marques (14593530)
