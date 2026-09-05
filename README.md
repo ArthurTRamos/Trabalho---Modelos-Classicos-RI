@@ -12,6 +12,11 @@ Projeto da disciplina SCC0282 - Recuperação de Informação voltado ao desenvo
 ## Como rodar
 
 1. Clone o repositório:
+
+```
+git clone https://github.com/ArthurTRamos/Trabalho---Modelos-Classicos-RI.git
+```
+
 2. Acesse o repositório:
 
 ```
@@ -25,4 +30,4 @@ python -m venv .venv
 ```
 
 4. Selecione o ambiente criado como kernel do código ```Trabalho_RI.ipynb```
-5. Rode todos os scripts ou apenas células específicas. Bibliotecas e dependências são instaladas na seção de 'Instalação de Dependências e Carregamento de Dataset'
+5. Rode todos os scripts ou apenas células específicas. Bibliotecas e dependências são instaladas na seção de 'Instalação de Dependências e Carregamento de Dataset' através do comando ``` pip install ```
