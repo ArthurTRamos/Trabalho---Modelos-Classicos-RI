@@ -38,8 +38,8 @@ python -m venv .venv
 
 **Linguagem**: Python (3.x)
 
-**Bibliotecas Principais**: NLTK (3.10.3), ir_datasets (0.6.3)
+**Bibliotecas Principais**:  Numpy (2.5.3), Pandas (3.0.5), Matplotlib (3.11.1), NLTK (3.10.3), ir_datasets (0.6.3)
 
 ## Identificação e Obtenção da Base de Dados
 
-O dataset Cranfield conta com um corpus textual de 1400 resumos de artigos científicos em inglês. Também conta com mais de 200 consultas e um conjunto-reposta com documentos relevantes a serem considerados para cada consulta. Para carregamento dos dados, foi utilizada a biblioteca ```ir_datasets``` e o método ```load("Cranfield")```. Informações adicionais e formas de manipulação do dataset podem ser encontrados em: https://ir-datasets.com/cranfield.html.
+O dataset Cranfield conta com um corpus textual de 1400 resumos de artigos científicos em inglês. Também conta com mais de 200 consultas e um conjunto-reposta com documentos relevantes a serem considerados para cada consulta, sendo que cada documento tem sua relevância classificada numa escala entre -1 (não relevante) e 4 (responde totalmente a pergunta). Para carregamento dos dados, foi utilizada a biblioteca ```ir_datasets``` e o método ```load("Cranfield")```. Informações adicionais e formas de manipulação do dataset podem ser encontrados em: https://ir-datasets.com/cranfield.html.
