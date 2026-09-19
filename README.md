@@ -38,7 +38,7 @@ python -m venv .venv
 
 **Linguagem**: Python (3.x)
 
-**Bibliotecas Principais**:  Numpy (2.5.3), Pandas (3.0.5), Matplotlib (3.11.1), NLTK (3.10.3), ir_datasets (0.6.3)
+**Bibliotecas Principais**:  Numpy (2.5.3), Pandas (3.0.5), Matplotlib (3.11.1), NLTK (3.10.3) e ir_datasets (0.6.3)
 
 ## Identificação e Obtenção da Base de Dados
 
